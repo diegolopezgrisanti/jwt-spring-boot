@@ -19,7 +19,7 @@ A backend application built with **Spring Boot**, **Spring Security**, and **JWT
 
 ## ⚙️ Technologies
 
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Security
 - JSON Web Token (JWT)
